@@ -24,26 +24,29 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Kognitive Systeme Group | University of Tübingen
-    company_url: ''
+    company_url: 'https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/'
     company_logo: uni-tue
     location: Germany
-    date_start: '2019-06-01'
+    date_start: '2019-07-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
         * Optimize deep neural networks based stereo matching methods
-        * Conducting tutorials for BS/MS level courses including Inroduction to neural networks, Artifical Intelligence, Current Topics in Deep Neural Networks _etc._
+        * Conduct tutorials for BS/MS level courses including Inroduction to Neural Networks, Artifical Intelligence, Current Topics in Deep Neural Networks _etc._
         * Write research papers and/or technical content
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: Werner Siemens Imaging Center
+    company_url: 'https://www.medizin.uni-tuebingen.de/de/'
+    company_logo: uni-klinik
+    location: Germany
+    date_start: '2019-02-06'
+    date_end: '2019-06-30'
+    description: During my stay at Werner Siemens Imaging Center I explored deep learning methods for medical
+imaging. Specifically, I worked on magnetic resonance imaging (MRI) and positron emission
+tomography (PET) imaging datasets and explored deep learning methods for classification and
+segmentation of brain tumor images.
 
 design:
   columns: '2'
