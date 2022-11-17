@@ -52,12 +52,6 @@ experience:
       location: Pakistan
       date_start: '2018-01-01'
       date_end: '2019-01-01'
-      description: |2-
-        Responsibilities include:
-        
-        * curriculum planning and designing of courses
-        * preparation and delivery of complete course material to bachelor level students
-        * supervision of undergraduate
   
 projects
 
