@@ -58,16 +58,7 @@ experience:
         * curriculum planning and designing of courses
         * preparation and delivery of complete course material to bachelor level students
         * supervision of undergraduate projects
-
-  - title: Research Assistant
-    company: Recognition Vision and Learning (ReVeaL) Lab
-    company_url: 'https://www.facebook.com/revealai/'
-    company_logo: reveal
-    location: Pakistan
-    date_start: '2015-04-01'
-    date_end: '2018-06-30'
-    description: My responsibilities included exploring, implementing and training cutting edge deep learning algorithms for computer vision and applying them to solve real life problems. In addition to this I was helping fellow members to build data science expertise and conducting research group reading sessions.
-
+  
   - title: Instructor 
     company: National University of Computer and Emerging Sciences
     company_url: 'http://isb.nu.edu.pk/'
