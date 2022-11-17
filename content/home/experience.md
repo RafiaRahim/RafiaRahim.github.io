@@ -58,6 +58,7 @@ experience:
         * curriculum planning and designing of courses
         * preparation and delivery of complete course material to bachelor level students
         * supervision of undergraduate
+  
 projects
 
 design:
