@@ -43,10 +43,8 @@ experience:
     location: Germany
     date_start: '2019-02-06'
     date_end: '2019-06-30'
-    description: During my stay at Werner Siemens Imaging Center I explored deep learning methods for medical
-imaging. Specifically, I worked on magnetic resonance imaging (MRI) and positron emission
-tomography (PET) imaging datasets and explored deep learning methods for classification and
-segmentation of brain tumor images.
+    description: During my stay at Werner Siemens Imaging Center I explored deep learning methods for medical imaging. Specifically, I worked on magnetic resonance imaging (MRI) and positron emission
+tomography (PET) imaging datasets and explored deep learning methods for classification and segmentation of brain tumor images.
 
 design:
   columns: '2'
