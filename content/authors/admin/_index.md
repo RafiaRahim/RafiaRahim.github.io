@@ -44,7 +44,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: fa-brands fa-google
+  - icon: fa-solid fa-envelope
+    icon_pack: fab
+    link: rafia.rahim@uni-tuebingen.de
+  - icon: fa-solid fa-link
     icon_pack: fab
     link: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/rafia-rahim/
   - icon: fa-solid fa-graduation-cap
