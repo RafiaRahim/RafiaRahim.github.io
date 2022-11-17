@@ -66,7 +66,7 @@ experience:
     location: Pakistan
     date_start: '2014-09-01'
     date_end: '2017-12-31'
- 
+    description: My responsibilities included preparing, conducting and evaluating labs of programming related subjects and taking classes sometimes. 
 design:
   columns: '2'
 ---
