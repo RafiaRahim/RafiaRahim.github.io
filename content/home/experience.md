@@ -64,12 +64,12 @@ experience:
     company_url: 'https://www.facebook.com/revealai/'
     company_logo: reveal
     location: Pakistan
-    date_start: '2013-04-01'
-    date_end: '2014-06-30'
+    date_start: '2015-04-01'
+    date_end: '2018-06-30'
     description: |2-
         Responsibilities include:
 
-        * exploring, implementing and training cutting edge deep learning algorithms for computer vision and applying them to solve real life problems.
+        * exploring, implementing and training cutting edge deep learning algorithms for computer vision 
         * help fellow members to build data science expertise
         * conduct research group reading sessions
 
