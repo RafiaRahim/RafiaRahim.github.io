@@ -66,8 +66,7 @@ experience:
     location: Pakistan
     date_start: '2014-09-01'
     date_end: '2017-12-31'
-    description: My responsibilities included preparing, conducting and evaluating labs of programming related subjects and taking classes sometimes. I conducted the following courses: Introduction to Computing (Python, C++), Computer Programming (C++), Data Structures (C++), Design and Analysis of Algorithms and Computer Networks (C++).
-
+ 
 design:
   columns: '2'
 ---
