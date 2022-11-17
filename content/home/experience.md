@@ -45,7 +45,19 @@ experience:
     date_end: '2019-06-30'
     description: During my stay at Werner Siemens Imaging Center I explored deep learning methods for medical imaging. Specifically, I worked on magnetic resonance imaging (MRI) and positron emission tomography (PET) imaging datasets and explored deep learning methods for classification and segmentation of brain tumor images.
 
-projects
+  - title: Lecturer 
+    company: National University of Computer and Emerging Sciences
+    company_url: 'http://isb.nu.edu.pk/'
+    company_logo: fast
+    location: Pakistan
+    date_start: '2018-01-01'
+    date_end: '2019-01-01'
+    description: |2-
+        Responsibilities include:
+        
+        * curriculum planning and designing of courses
+        * preparation and delivery of complete course material to bachelor level students
+        * supervision of undergraduate projects
 
 design:
   columns: '2'
