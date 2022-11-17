@@ -64,8 +64,8 @@ experience:
     company_url: 'https://www.facebook.com/revealai/'
     company_logo: reveal
     location: Pakistan
-    date_start: '2015-04-01'
-    date_end: '2018-06-30'
+    date_start: '2013-04-01'
+    date_end: '2014-06-30'
     description: |2-
         Responsibilities include:
 
