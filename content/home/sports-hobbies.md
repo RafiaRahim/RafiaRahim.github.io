@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: football
+  icon: cooking
   icon_pack: fas
   name: Cooking
 - icon: cricket
