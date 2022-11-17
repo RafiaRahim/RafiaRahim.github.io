@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: rafia.rahim@uni-tuebingen.de
-  #phone: 888 888 88 88
+  phone: (+49/0) 7071 / 29 76462
   address:
     street: Sand 1
     city: Tübingen
