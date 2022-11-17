@@ -25,6 +25,8 @@ interests:
   - Artificial Intelligence
   - Computer Vision
   - Machine Learning / Deep Learning
+  - Programming
+  - Teaching
 
 # Education to show in About widget
 education:
