@@ -45,7 +45,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: fa-solid fa-envelope
-    icon_pack: fab
+    icon_pack: fas
     link: rafia.rahim@uni-tuebingen.de
   - icon: fa-solid fa-link
     icon_pack: fab
