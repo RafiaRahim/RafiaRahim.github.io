@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Optimize deep neural networks based stereo matching methods
+        * Conducting tutorials for BS/MS level courses including Inroduction to neural networks, Artifical Intelligence, Current Topics in Deep Neural Networks _etc._
+        * Write research papers and/or technical content
 
   - title: Professor of Semiconductor Physics
     company: University X
